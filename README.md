@@ -11,7 +11,8 @@ The heart of the system is the ultrasonic sensor, which accurately measures the 
 When the system detects an object within a specific range, it triggers the LEDs to flash and activates the buzzer, alerting railway personnel and potentially avoiding accidents.
 
 Real-time distance measurements are also displayed on the Serial monitor, enabling monitoring and analysis of the system's performance.
-#Use Case:
+
+# Use Case:
 
 The Train Accident Prevention System is an essential tool for railway safety. It can be deployed in various railway segments to prevent collisions with obstacles or obstructions on the tracks.
 
